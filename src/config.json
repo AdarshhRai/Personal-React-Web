@@ -21,32 +21,32 @@
       "skills": [
         {
           "id": 1,
-          "name": "Javascript",
-          "degree": "intermediate"
+          "name": "Python",
+          "degree": "Proficient"
         },
         {
           "id": 2,
-          "name": "Python",
-          "degree": "junior"
+          "name": "SQL",
+          "degree": "intermediate"
         },
         {
           "id": 3,
-          "name": "Html/CSS3",
+          "name": "Numpy/Pandas",
           "degree": "intermediate"
         },
         {
           "id": 4,
-          "name": "Java",
+          "name": "Tableau",
           "degree": "intermediate"
         },
         {
           "id": 5,
-          "name": "Php",
-          "degree": "junior"
+          "name": "Probability and Statistics",
+          "degree": "intermediate"
         },
         {
           "id": 6,
-          "name": "Sql",
+          "name": "Excel",
           "degree": "intermediate"
         }
       ]
