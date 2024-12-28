@@ -61,32 +61,32 @@
       "skills": [
         {
           "id": 1,
-          "name": "Mysql",
+          "name": "Google Collab",
           "degree": "intermediate"
         },
         {
           "id": 2,
-          "name": "React.js",
+          "name": "MySql",
           "degree": "intermediate"
         },
         {
           "id": 3,
-          "name": "Android Studio",
+          "name": "Google Collab/Jupyter NB",
           "degree": "intermediate"
         },
         {
           "id": 4,
-          "name": "Node / Express",
-          "degree": "junior"
+          "name": "Tableau Public",
+          "degree": "intermediate"
         },
         {
           "id": 5,
-          "name": "Tableau / excel",
-          "degree": "junior"
+          "name": "Google Collab",
+          "degree": "intermediate"
         },
         {
           "id": 6,
-          "name": "Web Hosting & Configurations",
+          "name": "Excel 365",
           "degree": "senior"
         }
       ]
